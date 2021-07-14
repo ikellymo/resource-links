@@ -30,3 +30,8 @@
 - Igus
 - Cicoil
 
+### Connectors
+- Lemo
+- Harwin shells
+
+
