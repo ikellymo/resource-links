@@ -1,7 +1,7 @@
 # Resources
 
 ## Industrial motion
-### Stages
+### Linear and Rotary Actuators
 - NKS
 - THK
 - IKO
@@ -18,6 +18,7 @@
 - [Aerotech](https://www.aerotech.com/motion-and-positioning/stages-actuators-products/)
 - Festo
 - Automation Direct 
+- Harmonic Drives
 
 ### Drives
 - Granite Devices
