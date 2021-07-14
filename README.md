@@ -32,6 +32,6 @@
 
 ### Connectors
 - Lemo
-- Harwin shells
+- Harting Han-Modular 
 
 
