@@ -23,8 +23,10 @@
 - Granite Devices
 - Beckhoff
 - Aerotech
+- Advanced Motion Controls
 
 ## Elec. Components
 ### Cables
 - Igus
+- Cicoil
 
