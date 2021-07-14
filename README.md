@@ -24,3 +24,7 @@
 - Beckhoff
 - Aerotech
 
+## Elec. Components
+### Cables
+- Igus
+
