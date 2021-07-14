@@ -16,6 +16,8 @@
 - [H2WTech](https://www.h2wtech.com/)
 - [PI](https://www.pi-usa.us/en/products/)
 - [Aerotech](https://www.aerotech.com/motion-and-positioning/stages-actuators-products/)
+- Festo
+- Automation Direct 
 
 ### Drives
 - Granite Devices
